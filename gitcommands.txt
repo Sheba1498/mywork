@@ -1,3 +1,6 @@
 git init ->for initializing
 git status->for listing untracked files
 git add -A->add new changes
+git push
+git clone
+git pull
